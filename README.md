@@ -19,8 +19,7 @@ Real-time verification and banking-grade validation at the point of energy gener
 **Zero-Footprint SIM.** Embedded vSIM / eSIM technology that fuses carrier credentials, government ID, banking, and blockchain keys into a single cryptographic SIM shim — one credential surface, many identities.
 
 Links: https://bitcoinmagazine.com/technical/bitsim-adds-secure-hardware-wallet-phone-1429557433
-
-       https://uwaterloo.ca/news/engineering-alumni/fuzo-brings-financial-inclusion-millions-through-blockchain
+       https://uwaterloo.ca/news/engineering-alumni/fuzo-brings-financial-inclusion-millions-through-blockchain 
 
 ---
 
