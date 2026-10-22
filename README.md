@@ -15,8 +15,10 @@ Real-time verification and banking-grade validation at the point of energy gener
 ### [GMDx Genomics](https://gmdxgenomics.com)
 **Australian Precision Oncology Platform.** Patented **codon-context targeted somatic mutation (TSM)** signatures from whole-genome sequencing — detecting deaminase-driven mutagenesis (AID/APOBEC, ADAR) to predict cancer recurrence, immunotherapy response, and immune fitness. Founded with Dr. Robyn Lindley (CSO, University of Melbourne).
 
-### [Fuzo](https://fuzo.com) · [@fuzo](https://x.com/fuzo) aka Fused-ID
+### [Fuzo](https://fuzo.com) · [@fuzo](https://x.com/fuzo) aka Fused-ID (previously known as BitSIM)
 **Zero-Footprint SIM.** Embedded vSIM / eSIM technology that fuses carrier credentials, government ID, banking, and blockchain keys into a single cryptographic SIM shim — one credential surface, many identities.
+Links: https://bitcoinmagazine.com/technical/bitsim-adds-secure-hardware-wallet-phone-1429557433
+       https://uwaterloo.ca/news/engineering-alumni/fuzo-brings-financial-inclusion-millions-through-blockchain
 
 ---
 
